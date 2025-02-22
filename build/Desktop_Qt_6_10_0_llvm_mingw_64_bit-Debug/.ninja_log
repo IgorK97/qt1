@@ -1,0 +1,9 @@
+# ninja log v6
+17	3954	7617835500735358	untitledProject_autogen/timestamp	799e9d11a788786b
+17	3954	7617835500735358	untitledProject_autogen/mocs_compilation.cpp	799e9d11a788786b
+17	3954	7617835500735358	C:/Users/IgorA/source/repos/MyProjects/QtProjects/untitledProject/build/Desktop_Qt_6_10_0_llvm_mingw_64_bit-Debug/untitledProject_autogen/timestamp	799e9d11a788786b
+17	3954	7617835500735358	C:/Users/IgorA/source/repos/MyProjects/QtProjects/untitledProject/build/Desktop_Qt_6_10_0_llvm_mingw_64_bit-Debug/untitledProject_autogen/mocs_compilation.cpp	799e9d11a788786b
+3974	8937	7617835502721911	CMakeFiles/untitledProject.dir/untitledProject_autogen/mocs_compilation.cpp.obj	44f2342566f66ba2
+4317	9432	7617835506157457	CMakeFiles/untitledProject.dir/main.cpp.obj	c19b844554d2f9d1
+4615	9767	7617835509144607	CMakeFiles/untitledProject.dir/mainwindow.cpp.obj	8894785bebc374a9
+9767	11191	7617835560658744	untitledProject.exe	6b2a158ecfb4e35d
